@@ -17,3 +17,8 @@ spring:
     properties:
       hibernate:
         format_sql: true
+
+swyp:
+  firebase:
+    key-path: 'static/firebase.json'
+    url: 'https://fcm.googleapis.com/v1/projects/near-3cbf4'
