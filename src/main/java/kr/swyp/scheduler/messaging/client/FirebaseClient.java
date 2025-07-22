@@ -1,4 +1,4 @@
-package kr.swyp.scheduler.client;
+package kr.swyp.scheduler.messaging.client;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;

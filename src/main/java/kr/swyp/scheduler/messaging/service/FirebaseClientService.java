@@ -1,4 +1,4 @@
-package kr.swyp.scheduler.service;
+package kr.swyp.scheduler.messaging.service;
 
 import java.io.IOException;
 

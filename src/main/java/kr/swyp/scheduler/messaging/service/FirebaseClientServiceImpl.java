@@ -1,10 +1,10 @@
-package kr.swyp.scheduler.service;
+package kr.swyp.scheduler.messaging.service;
 
 import com.google.auth.oauth2.GoogleCredentials;
 import java.io.IOException;
 import java.util.List;
-import kr.swyp.scheduler.client.FirebaseClient;
 import kr.swyp.scheduler.common.config.FirebaseProperties;
+import kr.swyp.scheduler.messaging.client.FirebaseClient;
 import lombok.RequiredArgsConstructor;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
